@@ -4,7 +4,8 @@ import {Routes, Route} from 'react-router-dom'
 //import {CreatePage} from './pages/CreatePage'
 //import {DetailPage} from './pages/DetailPage'
 import LinksPage from "./pages/LinksPage"
-import CreatePage from './pages/CreatePage'
+//import CreatePa
+import {CreatePage} from './pages/CreatePage'
 import DetailPage from './pages/DetailPage'
 import AuthPage from './pages/AuthPage'
 import { BrowserRouter } from 'react-router-dom'
